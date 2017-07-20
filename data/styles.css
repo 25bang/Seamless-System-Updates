@@ -55,6 +55,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._流程形状 {
 }
 .table_cell {
@@ -72,7 +74,17 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 ._图片 {
 }
 .ellipse {
+}
+.placeholder {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
 }
